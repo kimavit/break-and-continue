@@ -1,7 +1,6 @@
 "break" and "continue" Statements
 ======
 
-- 1.
 ``````ruby
 n = int (input())
 cnt = 1
@@ -13,7 +12,6 @@ while cnt<=n:
 ``````
 -----
 
-- 2.
 ``````ruby
 n = int (input())
 for i in range (1, n+1):
