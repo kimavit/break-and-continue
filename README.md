@@ -9,6 +9,8 @@ while cnt<=n:
         print(cnt)
         break
 ``````
+-----
+
 ``````ruby
 n = int (input())
 for i in range (1, n+1):
@@ -16,3 +18,4 @@ for i in range (1, n+1):
       continue
     print (i)
 ``````
+------
